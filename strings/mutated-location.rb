@@ -1,3 +1,4 @@
+#Write a method to take 2 strings from the user and replace the first string with the second string. (Word, then number)
 def mutateString(word1, word2)
     puts "Location of word 1 is #{word1.object_id}"
     puts "Location of word 2 is #{word2.object_id}"
